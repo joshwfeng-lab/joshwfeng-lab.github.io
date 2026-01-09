@@ -1,31 +1,13 @@
 ---
-# Leave the homepage title empty to use the site title
-title: 'Josh Feng'
-summary: ''
+title: "Josh Feng"
 type: landing
-
-design:
-  spacing: '6rem'
-
-sections:
-  - block: resume-biography-3
-    content:
-      username: me
-      text: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
-      headings:
-        about: ''
-        education: ''
-        interests: ''
-    design:
-      background:
-        gradient_mesh:
-          enable: false
-      name:
-        size: md
-      avatar:
-        size: medium
-        shape: circle
 ---
+
+# Josh Feng
+
+PhD candidate in sociocultural anthropology at UC Berkeley.  
+My work explores culture, movement, media, and luxury fruit economies in Japan and East Asia.
+
+---
+
+Welcome — this is my personal site for writing, photography, CV, and contact.
